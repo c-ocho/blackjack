@@ -1,3 +1,6 @@
+# netlify folder
+.netlify/
+
 # Compiled class file
 *.class
 
